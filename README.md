@@ -1,0 +1,2 @@
+# Input_value_in_Araay
+Arrays have 0 as the first index, not 1. In this example, mark[0] is the first element. If the size of an array is n, to access the last element, the n-1 index is used. In this example, mark[4] Suppose the starting address of mark[0] is 2120d. Then, the address of the mark[1] will be 2124d. Similarly, the address of mark[2] will be 2128d and so on. This is because the size of a float is 4 bytes.
